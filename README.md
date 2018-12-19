@@ -8,3 +8,5 @@ Reimplementation of BCD for DNNs in [Zeng et al. (2018)](https://arxiv.org/abs/1
 
 ```bcd_dnn_mlp_cifar10_deep.ipynb```: 3-layer MLP, CIFAR-10
 
+```bcd_dnn_mlp_mnist_deep_ics.ipynb```: 10-layer MLP, MNIST, with internal covariate shift (ICS)
+
