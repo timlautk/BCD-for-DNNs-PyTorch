@@ -10,7 +10,9 @@ Implementation of BCD for DNNs in *Global Convergence of Block Coordinate Descen
 
 ```plot.ipynb```: Produces plots in the paper
 
-J. Zeng*, T. T.-K. Lau*, S. Lin and Y. Yao (2019). Global Convergence of Block Coordinate Descent in Deep Learning. In *Proceedings of the 36th International Conference on Machine Learning (ICML)*. 
-[URL](http://proceedings.mlr.press/v97/zeng19a.html) 
+J. Zeng*, T. T.-K. Lau*, S. Lin and Y. Yao (2019). [Global Convergence of Block Coordinate Descent in Deep Learning](http://proceedings.mlr.press/v97/zeng19a.html). In *Proceedings of the 36th International Conference on Machine Learning (ICML)*. 
+
 
 &ast;Equal contribution
+
+T. T.-K. Lau, J. Zeng, B. Wu and Y. Yao (2018). [A Proximal Block Coordinate Descent Algorithm for Deep Neural Network Training](https://openreview.net/forum?id=HycIjFkPM). In *International Conference on Learning Representations (ICLR), Workshop Track*. 
