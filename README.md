@@ -6,6 +6,6 @@ Implementation of BCD for DNNs in *Global Convergence of Block Coordinate Descen
 
 ```bcd_dnn_mlp_mnist_deep.ipynb```: 10-layer MLP, MNIST, BCD (PyTorch)
 
-```sgd_dnn_mlp_mnist_deep_keras.ipynb```: 10-layer MLP, MNIST, SGD (TensorFlow and Keras)
+```sgd_dnn_mlp_mnist_deep_keras.ipynb```: 10-layer MLP, MNIST, SGD (TensorFlow and Keras; adapted from https://github.com/timlautk/BCD-for-DNNs/tree/master/Keras)
 
 ```plot.ipynb```: Produces plots in the paper
