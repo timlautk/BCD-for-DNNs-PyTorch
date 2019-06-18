@@ -1,6 +1,6 @@
 # BCD-for-DNNs-PyTorch
 
-Implementation of BCD for DNNs in *Global Convergence of Block Coordinate Descent in Deep Learning* (Zeng et al., 2019) in PyTorch (see also T. T.-K. Lau et al., 2018) with the MNIST dataset. 
+Implementation of BCD for DNNs in *Global Convergence of Block Coordinate Descent in Deep Learning* (Zeng et al., 2019) in PyTorch with the MNIST dataset (see also T. T.-K. Lau et al., 2018). 
 
 ```bcd_dnn_mlp_mnist.ipynb```: 3-layer MLP, MNIST, BCD (PyTorch)
 
